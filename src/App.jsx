@@ -1,10 +1,11 @@
 import './assets/styles.css'
+import Footer from './components/footer'
 function App() {
 
 
   return (
     <div className="App">
-<h1>Test</h1>
+      <Footer/>
     </div>
   )
 }
