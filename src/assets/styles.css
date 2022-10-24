@@ -6,3 +6,10 @@
     font-family: 'Inter','Sans-serif';
 }
 
+.profile__section{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    margin: auto;
+    justify-content:right;
+}
