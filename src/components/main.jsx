@@ -2,6 +2,8 @@ import React from 'react'
 import icon2 from '../assets/Type=more, State=Pressed.png'
 import icon from '../assets/Type=Share, State=Default.png'
 import image from '../assets/Device=Web, State=Default.png'
+import Slack_icon from '../assets/slack.png'
+import Github_icon from '../assets/Social icon.png'
 
 const main = () => {
   return (
@@ -52,6 +54,11 @@ const main = () => {
         <a href='https://books.zuri.team/design-rules'>
             <button id='book_design'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Design Books</button>
         </a>
+       </div>
+
+       <div className='sm:visible invisible mx-auto place-items-center justify-center my-8 flex gap-8'>
+        <img src ={Slack_icon}alt='Slack-icon'/>
+        <img src={Github_icon}alt='Github-icon'/>
        </div>
     </div>
   )
