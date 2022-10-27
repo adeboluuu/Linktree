@@ -56,7 +56,7 @@ const main = () => {
         </a>
        </div>
 
-       <div className='sm:visible invisible mx-auto place-items-center justify-center my-8 flex gap-8'>
+       <div className=' mx-auto place-items-center justify-center my-8 flex gap-8'>
         <img src ={Slack_icon}alt='Slack-icon'/>
         <img src={Github_icon}alt='Github-icon'/>
        </div>

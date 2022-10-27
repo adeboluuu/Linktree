@@ -13,3 +13,7 @@
     margin: auto;
     justify-content:right;
 }
+
+.border-top{
+    border-top: 1px solid #EAECF0;
+}
