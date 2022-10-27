@@ -39,7 +39,7 @@ const main = () => {
        </div>
 
        <div>
-        <a href='https://books.zuri.team/'>
+        <a href='https://books.zuri.team//python-for-beginners?ref_id=Adeboluwarin Thomas'>
             <button id='book__python'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Python Books</button>
         </a>
        </div>
