@@ -33,7 +33,7 @@ const main = () => {
        </div>
 
        <div>
-        <a href='http://books.zuri.team/'>
+        <a href='http://books.zuri.team/'title='Books on coding and design'>
             <button id='books'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Zuri Books</button>
         </a>
        </div>
