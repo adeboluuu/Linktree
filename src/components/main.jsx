@@ -27,7 +27,7 @@ const main = () => {
        </div>
 
        <div>
-        <a href='https://training.zuri.team/'>
+        <a href='https://training.zuri.team/'title='Zuri-training'>
             <button id='btn__zuri'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Zuri Team</button>
         </a>
        </div>
@@ -39,19 +39,19 @@ const main = () => {
        </div>
 
        <div>
-        <a href='https://books.zuri.team//python-for-beginners?ref_id=Adeboluwarin Thomas'>
+        <a href='https://books.zuri.team//python-for-beginners?ref_id=Adeboluwarin Thomas'title='Books for python beginners'>
             <button id='book__python'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Python Books</button>
         </a>
        </div>
 
        <div>
-        <a href='https://background.zuri.team/'>
+        <a href='https://background.zuri.team/'title='Zuri background'>
             <button id='pitch'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Background Check for Coders</button>
         </a>
        </div>
 
        <div>
-        <a href='https://books.zuri.team/design-rules'>
+        <a href='https://books.zuri.team/design-rules'title='Books on design rules'>
             <button id='book_design'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Design Books</button>
         </a>
        </div>
