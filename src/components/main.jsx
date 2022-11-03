@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link } from "react-router-dom"
 import icon2 from '../assets/Type=more, State=Pressed.png'
 import icon from '../assets/Type=Share, State=Default.png'
 import image from '../assets/Device=Web, State=Default.png'
@@ -28,7 +29,7 @@ const main = () => {
 
        <div>
         <a href='https://training.zuri.team/'title='Zuri-training'>
-            <button id='btn__zuri'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Zuri Team</button>
+            <button id='btn__zuri' className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Zuri Team</button>
         </a>
        </div>
 
