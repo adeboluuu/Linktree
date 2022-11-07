@@ -15,24 +15,24 @@ function contact() {
       <form >
       <div className='sm:grid grid-cols-2 gap-8 block text-left my-3'>
         <div className="my-3">
-          <label className="block text-sm font-medium mb-2" for="First name"> First name</label>
+          <label className="block text-sm font-medium mb-2" htmlFor="First name"> First name</label>
           <input autoComplete='on' className="shadow appearance-none h-11 border font-normal rounded-lg w-full py-2 px-3 text-[#667085] leading-tight focus:outline-none focus:shadow " id="first_name" placeholder="Enter your first name" />
         </div>
         
         <div className="my-3 ">
-          <label class="block text-sm font-medium  mb-2" for="Last name">Last name</label>
+          <label class="block text-sm font-medium  mb-2" htmlFor="Last name">Last name</label>
           <input autoComplete='on'className="shadow appearance-none border h-11 font-normal rounded-lg w-full py-2 px-3 text-[#667085] leading-tight focus:outline-none focus:shadow" id="last_name" placeholder="Enter your last name" />
         </div>
         
         </div>
 
         <div className="my-3 ">
-          <label class="block  text-left text-sm font-medium  mb-2" for="email">Email</label>
+          <label class="block  text-left text-sm font-medium  mb-2" htmlFor="Email">Email</label>
           <input className="shadow appearance-none border h-11 font-normal rounded-lg w-full py-2 px-3 text-[#667085] leading-tight focus:outline-none focus:shadow-outline"type="email" id="email" placeholder="yourname@email.com" />
         </div>
 
         <div className="my-3 ">
-          <label class="block  text-left text-sm font-medium  mb-2" for="message">Message</label>
+          <label class="block  text-left text-sm font-medium  mb-2" htmlFor="Message">Message</label>
           <textarea className="shadow appearance-none border h-[132px] font-normal rounded-lg w-full py-3 px-3   text-[#667085] leading-tight focus:outline-none focus:shadow-outline"type="text" id="message" placeholder="Send me a message and I'll reply you as soon as possible..." />
         </div>
 

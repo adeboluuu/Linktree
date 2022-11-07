@@ -58,8 +58,8 @@ const main = () => {
        </div>
 
        <div>
-        <Link to ='/contact' id ='contact'title='Contact page'>
-            <button id='contact'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Contact Me</button>
+        <Link to='/contact'title='Contact page' id='contact'>
+            <button className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Contact Me</button>
         </Link>
        </div>
 
