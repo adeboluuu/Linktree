@@ -5,12 +5,12 @@ import Contact from '../src/components/contact'
 
 function App() {
   return (
-    <div className="App">
+    <> 
       <Routes>
       <Route path ='/contact' element={ <Contact/>}/>
       <Route path ='/' element={ <Home/> }/>
       </Routes>
-    </div>
+    </>
   )
 }
 
