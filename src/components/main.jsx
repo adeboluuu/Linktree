@@ -58,9 +58,9 @@ const main = () => {
        </div>
 
        <div>
-        <a href='contact'title='Contact page'>
+        <Link to ='/contact' id ='contact'title='Contact page'>
             <button id='contact'className='bg-[#EAECF0] hover:bg-[#D0D5DD] w-11/12 h-14 rounded-lg border-[#EAECFO] my-2 text-lg font-medium'>Contact Me</button>
-        </a>
+        </Link>
        </div>
 
        <div className=' mx-auto place-items-center justify-center my-8 flex gap-8'>
